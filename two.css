@@ -1,0 +1,16 @@
+div {
+    box-sizing: border-box;
+    width: 100%;
+    float: left;
+    align-content: center;
+    align-items: center;
+    font-style: oblique;
+    font-size: larger;
+}
+
+form {
+    background-color:antiquewhite;
+    margin:0 auto;
+    width: 600px;
+    height:600px;
+}
